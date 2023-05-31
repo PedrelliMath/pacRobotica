@@ -1,0 +1,67 @@
+.navbar {
+    background-color: transparent;
+    background: transparent;
+    position: fixed;
+}
+
+.fullwidth{
+    width: 100%;
+}
+
+.fixheight{
+    height: 100px;
+}
+
+.flex-direction-row{
+    flex-direction: row;
+}
+
+.jusitify-content-space-between{
+    justify-content: space-between;
+}
+
+.align-itens-center{
+    align-items: center;
+}
+
+.paddingfix100{
+    padding-left: 100px;
+}
+
+.paddingrightfix100{
+    padding-right: 100px;
+}
+
+.paddingtopfix100{
+    padding-top: 100px;
+}
+
+.font-grey{
+    color: #747070;
+}
+
+.font-bebas{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.font-3rem{
+    font-size: 3rem;
+}
+
+.list-style-none{
+    list-style: none;
+}
+
+.hover-pink:hover{
+    transition: all 300ms ease-in-out;
+    color: #FF76D0;
+    
+}
+
+.text-decoration-none{
+    text-decoration: none;
+}
+
+.margin-top180{
+    margin-top: 180px;
+}
